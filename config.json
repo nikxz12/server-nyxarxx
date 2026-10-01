@@ -1,9 +1,6 @@
 {
-  "api_url": "https://server-baru-lo.com:2655",
-  "ws_url": "wss://server-baru-lo.com:2655",
-  "api_key": "xxxxx",
-  "fallback_url": "https://server-backup-lo.com:2655",
-  "version": "1.0.5",
+  "api_url": "http://ripzhostpanel.rzhosts.my.id:3039",
+  "ws_url": "wss://ripzhostpanel.rzhosts.my.id:3039",
   "maintenance": false,
   "message": ""
 }

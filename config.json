@@ -1,0 +1,9 @@
+{
+  "wsUrl": "wss://zuraastresser.duckdns.top:3065",
+  "apiUrl": "http://zuraastresser.duckdns.top:3065",
+  "extra": {
+    "appVersion": "2.1.0",
+    "maintenanceMode": false,
+    "appEnabled": true
+  }
+}

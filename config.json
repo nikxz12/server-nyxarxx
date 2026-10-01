@@ -1,9 +1,9 @@
 {
-  "wsUrl": "wss://zuraastresser.duckdns.top:3065",
-  "apiUrl": "http://zuraastresser.duckdns.top:3065",
-  "extra": {
-    "appVersion": "2.1.0",
-    "maintenanceMode": false,
-    "appEnabled": true
-  }
+  "api_url": "https://server-baru-lo.com:2655",
+  "ws_url": "wss://server-baru-lo.com:2655",
+  "api_key": "xxxxx",
+  "fallback_url": "https://server-backup-lo.com:2655",
+  "version": "1.0.5",
+  "maintenance": false,
+  "message": ""
 }

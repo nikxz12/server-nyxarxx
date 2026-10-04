@@ -1,6 +1,6 @@
 {
-  "api_url": "http://ripzhostpanel.rzhosts.my.id:3039",
-  "ws_url": "wss://ripzhostpanel.rzhosts.my.id:3039",
+  "api_url": "http://zexx-privateserver.duckdns.top:3334",
+  "ws_url": "wss://zexx-privateserver.duckdns.top:3334",
   "maintenance": false,
   "message": ""
 }

@@ -1,6 +1,6 @@
 {
-  "api_url": "http://zexx-privateserver.duckdns.top:3334",
-  "ws_url": "wss://zexx-privateserver.duckdns.top:3334",
+  "api_url": "http://zexx-privateserver.duckdns.top",
+  "ws_url": "wss://zexx-privateserver.duckdns.top",
   "maintenance": false,
   "message": ""
 }

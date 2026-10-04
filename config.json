@@ -1,7 +1,6 @@
 {
-  "api_url": "http://zexx-privateserver.duckdns.top",
-  "Uri.parse(
-            'http://ripzhostpanel.rzhosts.my.id:3039",
+  "api_url":"http://zexx-privateserver.duckdns.top",
+  "Uri.parse":"http://ripzhostpanel.rzhosts.my.id:3039",
   "maintenance": false,
   "message": ""
 }
